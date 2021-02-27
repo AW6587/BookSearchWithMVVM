@@ -1,0 +1,20 @@
+com/example/booksapiwithviewmodel/BookRepository.java
+ com.example.booksapiwithviewmodel.BookRepository
+ com.example.booksapiwithviewmodel.BookRepository$1
+com/example/booksapiwithviewmodel/BookApiResponse.java
+ com.example.booksapiwithviewmodel.BookApiResponse
+com/example/booksapiwithviewmodel/BookInfo.java
+ com.example.booksapiwithviewmodel.BookInfo
+com/example/booksapiwithviewmodel/BookViewModel.java
+ com.example.booksapiwithviewmodel.BookViewModel
+com/example/booksapiwithviewmodel/ApiService.java
+ com.example.booksapiwithviewmodel.ApiService
+com/example/booksapiwithviewmodel/BuildConfig.java
+ com.example.booksapiwithviewmodel.BuildConfig
+com/example/booksapiwithviewmodel/RetrofitBuilder.java
+ com.example.booksapiwithviewmodel.RetrofitBuilder
+com/example/booksapiwithviewmodel/BookItem.java
+ com.example.booksapiwithviewmodel.BookItem
+com/example/booksapiwithviewmodel/MainActivity.java
+ com.example.booksapiwithviewmodel.MainActivity
+ com.example.booksapiwithviewmodel.MainActivity$1
